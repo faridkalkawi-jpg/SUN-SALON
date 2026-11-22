@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sunsalon.dk/sitemap.xml
+Sitemap: https://sunsalon.vercel.app/sitemap.xml
